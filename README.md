@@ -801,29 +801,8 @@ The UI also includes loading, empty, and error states.
 [![Project-Skill Relationships](Screenshots/Graphdatagraph/Screenshot%20(500).png)](Screenshots/Graphdatagraph/Screenshot%20(500).png)
 
 ---
-# 21. Cypher Query Results
-## Employee Skills Query
 
-[![Employee Skills Query](./cyphequeries/Screenshot%20%28491%29.png)](./cyphequeries/Screenshot%20%28491%29.png)
-
-## Employee Projects Query
-
-[![Employee Projects Query](./cyphequeries/Screenshot%20%28492%29.png)](./cyphequeries/Screenshot%20%28492%29.png)
-
-## Project Skills Query
-
-[![Project Skills Query](./cyphequeries/Screenshot%20%28493%29.png)](./cyphequeries/Screenshot%20%28493%29.png)
-
-## Multi-Hop Graph Traversal
-
-[![Multi-Hop Graph Traversal](./cyphequeries/Screenshot%20%28494%29.png)](./cyphequeries/Screenshot%20%28494%29.png)
-
-## Employee Skill Matching Query
-
-[![Employee Skill Matching Query](./cyphequeries/Screenshot%20%28495%29.png)](./cyphequeries/Screenshot%20%28495%29.png)
----
-
-# 22. Screen Recording
+# 21. Screen Recording
 
 The screen recording demonstrates the complete application workflow, including:
 
@@ -838,7 +817,7 @@ The screen recording demonstrates the complete application workflow, including:
 
 ---
 
-# 23. Error Handling
+# 22. Error Handling
 
 The application provides basic handling for common UI/API situations.
 
@@ -860,7 +839,7 @@ While the API request is being processed, the UI displays a loading indicator.
 
 ---
 
-# 24. Design Decisions
+# 23. Design Decisions
 
 ### Graph Database
 
@@ -894,7 +873,7 @@ A generated dataset of 350 employees provides enough data to demonstrate graph t
 
 ---
 
-# 25. Future Improvements
+# 24. Future Improvements
 
 Potential improvements include:
 
@@ -912,7 +891,7 @@ Potential improvements include:
 
 ---
 
-# 26. Author
+# 25. Author
 
 **Vishnu Reddy**
 
