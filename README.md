@@ -765,7 +765,6 @@ The UI also includes loading, empty, and error states.
 
 # 19. UI Screenshots
 
-> Screenshots will be added here.
 
 ### Main Application
 
