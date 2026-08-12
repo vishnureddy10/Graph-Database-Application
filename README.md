@@ -803,34 +803,15 @@ The UI also includes loading, empty, and error states.
 ---
 
 # 21. Cypher Query Results
+[![Employee Skills Query](Screenshots/cyphequeries/Screenshot%20(491).png)](Screenshots/cyphequeries/Screenshot%20(491).png)
 
-## Employee Details Query
+[![Employee Projects Query](Screenshots/cyphequeries/Screenshot%20(492).png)](Screenshots/cyphequeries/Screenshot%20(492).png)
 
-[![Employee Details Query](cyphequeries/Screenshot%20(490).png)](cyphequeries/Screenshot%20(490).png)
+[![Project Skills Query](Screenshots/cyphequeries/Screenshot%20(493).png)](Screenshots/cyphequeries/Screenshot%20(493).png)
 
-## Employee Skills Query
+[![Multi-Hop Graph Traversal](Screenshots/cyphequeries/Screenshot%20(494).png)](Screenshots/cyphequeries/Screenshot%20(494).png)
 
-[![Employee Skills Query](cyphequeries/Screenshot%20(491).png)](cyphequeries/Screenshot%20(491).png)
-
-## Employee Projects Query
-
-[![Employee Projects Query](cyphequeries/Screenshot%20(492).png)](cyphequeries/Screenshot%20(492).png)
-
-## Project Skills Query
-
-[![Project Skills Query](cyphequeries/Screenshot%20(493).png)](cyphequeries/Screenshot%20(493).png)
-
-## Multi-Hop Graph Traversal
-
-[![Multi-Hop Graph Traversal](cyphequeries/Screenshot%20(494).png)](cyphequeries/Screenshot%20(494).png)
-
-## Employee Skill Matching Query
-
-[![Employee Skill Matching Query](cyphequeries/Screenshot%20(495).png)](cyphequeries/Screenshot%20(495).png)
-
-# 22. Screen Recording
-
-[![Project Skills Query](cyphequeries/Screenshot%20(493).png)](cyphequeries/Screenshot%20(493).png)
+[![Employee Skill Matching Query](Screenshots/cyphequeries/Screenshot%20(495).png)](Screenshots/cyphequeries/Screenshot%20(495).png)
 
 The recording will demonstrate:
 
