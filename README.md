@@ -762,67 +762,75 @@ The UI allows a non-technical user to:
 The UI also includes loading, empty, and error states.
 
 ---
-
 # 19. UI Screenshots
 
+## Main Application
 
-### Main Application
+[![Main Application](Screenshots/UI/Screenshot%20(486).png)](Screenshots/UI/Screenshot%20(486).png)
 
-<!-- Add screenshot here -->
+## Project Selection
 
-### Project Selection
+[![Project Selection](Screenshots/UI/Screenshot%20(487).png)](Screenshots/UI/Screenshot%20(487).png)
 
-<!-- Add screenshot here -->
+## Employee Matching Results
 
-### Employee Matching Results
+[![Employee Matching Results](Screenshots/UI/Screenshot%20(488).png)](Screenshots/UI/Screenshot%20(488).png)
 
-<!-- Add screenshot here -->
+## Employee Search and Sorting
 
-### Employee Search and Sorting
-
-<!-- Add screenshot here -->
-
----
-
-# 20. Database / Graph Screenshots
-
-> Database screenshots will be added here.
-
-### Graph Data Model
-
-<!-- Add screenshot here -->
-
-### Employee-Skill Relationships
-
-<!-- Add screenshot here -->
-
-### Project-Skill Relationships
-
-<!-- Add screenshot here -->
-
-### Cypher Query Results
-
-<!-- Add screenshot here -->
+[![Employee Search and Sorting](Screenshots/UI/Screenshot%20(489).png)](Screenshots/UI/Screenshot%20(489).png)
 
 ---
 
-# 21. Demo
+# 20. Graph Database Screenshots
 
-### Hosted Application
+## Graph Data Model
 
-<!-- Add hosted application URL here -->
+[![Graph Data Model](Screenshots/Graphdatagraph/Screenshot%20(497).png)](Screenshots/Graphdatagraph/Screenshot%20(497).png)
 
-### API Demo
+## Employee-Skill Relationships
 
-```text
-http://localhost:8080/api/match?projectName=AI%20Recruitment%20System
-```
+[![Employee-Skill Relationships](Screenshots/Graphdatagraph/Screenshot%20(498).png)](Screenshots/Graphdatagraph/Screenshot%20(498).png)
+
+## Employee-Project Relationships
+
+[![Employee-Project Relationships](Screenshots/Graphdatagraph/Screenshot%20(499).png)](Screenshots/Graphdatagraph/Screenshot%20(499).png)
+
+## Project-Skill Relationships
+
+[![Project-Skill Relationships](Screenshots/Graphdatagraph/Screenshot%20(500).png)](Screenshots/Graphdatagraph/Screenshot%20(500).png)
 
 ---
+
+# 21. Cypher Query Results
+
+## Employee Details Query
+
+[![Employee Details Query](cyphequeries/Screenshot%20(490).png)](cyphequeries/Screenshot%20(490).png)
+
+## Employee Skills Query
+
+[![Employee Skills Query](cyphequeries/Screenshot%20(491).png)](cyphequeries/Screenshot%20(491).png)
+
+## Employee Projects Query
+
+[![Employee Projects Query](cyphequeries/Screenshot%20(492).png)](cyphequeries/Screenshot%20(492).png)
+
+## Project Skills Query
+
+[![Project Skills Query](cyphequeries/Screenshot%20(493).png)](cyphequeries/Screenshot%20(493).png)
+
+## Multi-Hop Graph Traversal
+
+[![Multi-Hop Graph Traversal](cyphequeries/Screenshot%20(494).png)](cyphequeries/Screenshot%20(494).png)
+
+## Employee Skill Matching Query
+
+[![Employee Skill Matching Query](cyphequeries/Screenshot%20(495).png)](cyphequeries/Screenshot%20(495).png)
 
 # 22. Screen Recording
 
-> Screen recording link will be added here.
+[![Project Skills Query](cyphequeries/Screenshot%20(493).png)](cyphequeries/Screenshot%20(493).png)
 
 The recording will demonstrate:
 
