@@ -801,27 +801,44 @@ The UI also includes loading, empty, and error states.
 [![Project-Skill Relationships](Screenshots/Graphdatagraph/Screenshot%20(500).png)](Screenshots/Graphdatagraph/Screenshot%20(500).png)
 
 ---
-
 # 21. Cypher Query Results
-[![Employee Skills Query](Screenshots/cyphequeries/Screenshot%20(491).png)](Screenshots/cyphequeries/Screenshot%20(491).png)
 
-[![Employee Projects Query](Screenshots/cyphequeries/Screenshot%20(492).png)](Screenshots/cyphequeries/Screenshot%20(492).png)
+## Employee Details Query
 
-[![Project Skills Query](Screenshots/cyphequeries/Screenshot%20(493).png)](Screenshots/cyphequeries/Screenshot%20(493).png)
+[![Employee Details Query](./Screenshots/cyphequeries/Screenshot%20(490).png)](./Screenshots/cyphequeries/Screenshot%20(490).png)
 
-[![Multi-Hop Graph Traversal](Screenshots/cyphequeries/Screenshot%20(494).png)](Screenshots/cyphequeries/Screenshot%20(494).png)
+## Employee Skills Query
 
-[![Employee Skill Matching Query](Screenshots/cyphequeries/Screenshot%20(495).png)](Screenshots/cyphequeries/Screenshot%20(495).png)
+[![Employee Skills Query](./Screenshots/cyphequeries/Screenshot%20(491).png)](./Screenshots/cyphequeries/Screenshot%20(491).png)
 
-The recording will demonstrate:
+## Employee Projects Query
 
-1. Starting the application.
-2. Opening the web application.
-3. Selecting a project.
-4. Running employee matching.
-5. Viewing matching employees.
-6. Viewing match percentages and skills.
-7. Demonstrating the graph database/Cypher query.
+[![Employee Projects Query](./Screenshots/cyphequeries/Screenshot%20(492).png)](./Screenshots/cyphequeries/Screenshot%20(492).png)
+
+## Project Skills Query
+
+[![Project Skills Query](./Screenshots/cyphequeries/Screenshot%20(493).png)](./Screenshots/cyphequeries/Screenshot%20(493).png)
+
+## Multi-Hop Graph Traversal
+
+[![Multi-Hop Graph Traversal](./Screenshots/cyphequeries/Screenshot%20(494).png)](./Screenshots/cyphequeries/Screenshot%20(494).png)
+
+## Employee Skill Matching Query
+
+[![Employee Skill Matching Query](./Screenshots/cyphequeries/Screenshot%20(495).png)](./Screenshots/cyphequeries/Screenshot%20(495).png)
+
+# 22. Screen Recording
+
+The screen recording demonstrates the complete application workflow, including:
+
+1. Starting the Spring Boot application
+2. Opening the web application
+3. Selecting a project
+4. Running employee-skill matching
+5. Viewing matching employees
+6. Viewing matching percentages and skills
+
+**[▶️ Watch the complete application demonstration](./DemoVideo/screen-capture.webm)**
 
 ---
 
