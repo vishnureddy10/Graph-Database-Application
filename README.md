@@ -394,7 +394,7 @@ The application uses the Neo4j Java Driver and parameterized Cypher queries.
 ## 12.1 Find an Employee by ID
 
 ```cypher
-MATCH (e:Employee {employeeId: $employeeId})
+MATCH (e:Employee)
 RETURN e.employeeId AS employeeId,
        e.name AS name,
        e.email AS email,
@@ -421,7 +421,7 @@ ORDER BY e.name;
 This is a one-hop graph traversal:
 
 ```cypher
-MATCH (e:Employee {employeeId: $employeeId})
+MATCH (e:Employee )
       -[:HAS_SKILL]->(s:Skill)
 RETURN s.name AS skill
 ORDER BY s.name;
@@ -432,7 +432,7 @@ ORDER BY s.name;
 ## 12.4 Find Projects of an Employee
 
 ```cypher
-MATCH (e:Employee {employeeId: $employeeId})
+MATCH (e:Employee)
       -[:WORKS_ON]->(p:Project)
 RETURN p.name AS project
 ORDER BY p.name;
@@ -443,9 +443,7 @@ ORDER BY p.name;
 ## 12.5 Find Employees with a Particular Skill
 
 ```cypher
-MATCH (e:Employee)-[:HAS_SKILL]->(s:Skill {
-    skillId: $skillId
-})
+MATCH (e:Employee)-[:HAS_SKILL]->(s:Skill )
 RETURN e.name AS employee
 ORDER BY e.name;
 ```
@@ -455,9 +453,7 @@ ORDER BY e.name;
 ## 12.6 Find Projects Requiring a Particular Skill
 
 ```cypher
-MATCH (p:Project)-[:REQUIRES]->(s:Skill {
-    skillId: $skillId
-})
+MATCH (p:Project)-[:REQUIRES]->(s:Skill )
 RETURN p.name AS project
 ORDER BY p.name;
 ```
@@ -469,7 +465,7 @@ ORDER BY p.name;
 A central graph traversal for the matching use case is:
 
 ```cypher
-MATCH (p:Project {name: $projectName})
+MATCH (p:Project)
       -[:REQUIRES]->(required:Skill)
 
 WITH p, collect(required) AS requiredSkills
