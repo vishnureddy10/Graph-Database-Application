@@ -802,31 +802,15 @@ The UI also includes loading, empty, and error states.
 
 ---
 # 21. Cypher Query Results
-
-## Employee Details Query
-
-[![Employee Details Query](./Screenshots/cyphequeries/Screenshot%20(490).png)](./Screenshots/cyphequeries/Screenshot%20(490).png)
-
-## Employee Skills Query
-
 [![Employee Skills Query](./Screenshots/cyphequeries/Screenshot%20(491).png)](./Screenshots/cyphequeries/Screenshot%20(491).png)
-
-## Employee Projects Query
 
 [![Employee Projects Query](./Screenshots/cyphequeries/Screenshot%20(492).png)](./Screenshots/cyphequeries/Screenshot%20(492).png)
 
-## Project Skills Query
-
 [![Project Skills Query](./Screenshots/cyphequeries/Screenshot%20(493).png)](./Screenshots/cyphequeries/Screenshot%20(493).png)
-
-## Multi-Hop Graph Traversal
 
 [![Multi-Hop Graph Traversal](./Screenshots/cyphequeries/Screenshot%20(494).png)](./Screenshots/cyphequeries/Screenshot%20(494).png)
 
-## Employee Skill Matching Query
-
 [![Employee Skill Matching Query](./Screenshots/cyphequeries/Screenshot%20(495).png)](./Screenshots/cyphequeries/Screenshot%20(495).png)
-
 # 22. Screen Recording
 
 The screen recording demonstrates the complete application workflow, including:
