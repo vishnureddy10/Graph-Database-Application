@@ -811,6 +811,9 @@ The UI also includes loading, empty, and error states.
 [![Multi-Hop Graph Traversal](./Screenshots/cyphequeries/Screenshot%20(494).png)](./Screenshots/cyphequeries/Screenshot%20(494).png)
 
 [![Employee Skill Matching Query](./Screenshots/cyphequeries/Screenshot%20(495).png)](./Screenshots/cyphequeries/Screenshot%20(495).png)
+
+---
+
 # 22. Screen Recording
 
 The screen recording demonstrates the complete application workflow, including:
