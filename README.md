@@ -812,7 +812,9 @@ The screen recording demonstrates the complete application workflow, including:
 4. Running employee-skill matching
 5. Viewing matching employees
 6. Viewing matching percentages and skills
-[▶️ Watch the Application Demo](./DemoVideo/screen-capture.webm)
+## Demo Video
+
+[▶️ Watch the Application Demo](https://drive.google.com/file/d/1hSIdeqh3XiSoSYHB_FiFcUnn7-UtMkE3/view)
 
 
 ---
